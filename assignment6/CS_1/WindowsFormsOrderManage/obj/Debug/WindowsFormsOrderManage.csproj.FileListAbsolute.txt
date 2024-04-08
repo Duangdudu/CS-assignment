@@ -1,0 +1,13 @@
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\bin\Debug\WindowsFormsOrderManage.exe.config
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\bin\Debug\WindowsFormsOrderManage.exe
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\bin\Debug\WindowsFormsOrderManage.pdb
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.csproj.AssemblyReference.cache
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.csproj.SuggestedBindingRedirects.cache
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.AddOrder.resources
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.Form1.resources
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.ModifyOrder.resources
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.Properties.Resources.resources
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.csproj.GenerateResource.cache
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.csproj.CoreCompileInputs.cache
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.exe
+C:\duuuuuu\cs\assignment6\CS_1\WindowsFormsOrderManage\obj\Debug\WindowsFormsOrderManage.pdb
