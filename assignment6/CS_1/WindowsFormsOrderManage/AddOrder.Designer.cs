@@ -31,7 +31,10 @@ namespace WindowsFormsOrderManage
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AddOrder));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.customerLabel = new System.Windows.Forms.Label();
             this.customerName = new System.Windows.Forms.TextBox();
@@ -40,6 +43,7 @@ namespace WindowsFormsOrderManage
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.bindingNavigator1 = new System.Windows.Forms.BindingNavigator(this.components);
             this.bindingNavigatorAddNewItem = new System.Windows.Forms.ToolStripButton();
+            this.itemBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.bindingNavigatorCountItem = new System.Windows.Forms.ToolStripLabel();
             this.bindingNavigatorDeleteItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorMoveFirstItem = new System.Windows.Forms.ToolStripButton();
@@ -51,20 +55,19 @@ namespace WindowsFormsOrderManage
             this.bindingNavigatorMoveLastItem = new System.Windows.Forms.ToolStripButton();
             this.bindingNavigatorSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.OrderDetails = new System.Windows.Forms.DataGridView();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.recognizeButton = new System.Windows.Forms.Button();
-            this.cancelButton = new System.Windows.Forms.Button();
-            this.itemBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.productNameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.productPriceDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.productAmountDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.recognizeButton = new System.Windows.Forms.Button();
+            this.cancelButton = new System.Windows.Forms.Button();
             this.flowLayoutPanel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bindingNavigator1)).BeginInit();
             this.bindingNavigator1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.itemBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.OrderDetails)).BeginInit();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.itemBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // flowLayoutPanel1
@@ -176,6 +179,11 @@ namespace WindowsFormsOrderManage
             this.bindingNavigatorAddNewItem.Size = new System.Drawing.Size(46, 44);
             this.bindingNavigatorAddNewItem.Text = "新添";
             // 
+            // itemBindingSource
+            // 
+            this.itemBindingSource.DataMember = "OrderItemList";
+            this.itemBindingSource.DataSource = typeof(WindowsFormsOrderManage.Order);
+            // 
             // bindingNavigatorCountItem
             // 
             this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
@@ -256,20 +264,73 @@ namespace WindowsFormsOrderManage
             // OrderDetails
             // 
             this.OrderDetails.AutoGenerateColumns = false;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.OrderDetails.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.OrderDetails.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.OrderDetails.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.productNameDataGridViewTextBoxColumn,
             this.productPriceDataGridViewTextBoxColumn,
             this.productAmountDataGridViewTextBoxColumn});
             this.OrderDetails.DataSource = this.itemBindingSource;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.OrderDetails.DefaultCellStyle = dataGridViewCellStyle4;
             this.OrderDetails.Location = new System.Drawing.Point(4, 33);
             this.OrderDetails.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.OrderDetails.Name = "OrderDetails";
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.OrderDetails.RowHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.OrderDetails.RowHeadersWidth = 82;
             this.OrderDetails.RowTemplate.Height = 27;
             this.OrderDetails.Size = new System.Drawing.Size(677, 262);
             this.OrderDetails.TabIndex = 0;
             this.OrderDetails.DataError += new System.Windows.Forms.DataGridViewDataErrorEventHandler(this.dgvOrderItem_DataError);
+            // 
+            // productNameDataGridViewTextBoxColumn
+            // 
+            this.productNameDataGridViewTextBoxColumn.DataPropertyName = "ProductName";
+            this.productNameDataGridViewTextBoxColumn.HeaderText = "商品名";
+            this.productNameDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.productNameDataGridViewTextBoxColumn.Name = "productNameDataGridViewTextBoxColumn";
+            this.productNameDataGridViewTextBoxColumn.Width = 200;
+            // 
+            // productPriceDataGridViewTextBoxColumn
+            // 
+            this.productPriceDataGridViewTextBoxColumn.DataPropertyName = "ProductPrice";
+            dataGridViewCellStyle2.Format = "C2";
+            dataGridViewCellStyle2.NullValue = "0";
+            this.productPriceDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle2;
+            this.productPriceDataGridViewTextBoxColumn.HeaderText = "单价";
+            this.productPriceDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.productPriceDataGridViewTextBoxColumn.Name = "productPriceDataGridViewTextBoxColumn";
+            this.productPriceDataGridViewTextBoxColumn.Width = 200;
+            // 
+            // productAmountDataGridViewTextBoxColumn
+            // 
+            this.productAmountDataGridViewTextBoxColumn.DataPropertyName = "ProductAmount";
+            dataGridViewCellStyle3.NullValue = "0";
+            this.productAmountDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle3;
+            this.productAmountDataGridViewTextBoxColumn.HeaderText = "数目";
+            this.productAmountDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.productAmountDataGridViewTextBoxColumn.Name = "productAmountDataGridViewTextBoxColumn";
+            this.productAmountDataGridViewTextBoxColumn.Width = 200;
             // 
             // panel1
             // 
@@ -312,40 +373,6 @@ namespace WindowsFormsOrderManage
             this.cancelButton.UseVisualStyleBackColor = false;
             this.cancelButton.Click += new System.EventHandler(this.btnCancel_Click);
             // 
-            // itemBindingSource
-            // 
-            this.itemBindingSource.DataMember = "OrderItemList";
-            this.itemBindingSource.DataSource = typeof(WindowsFormsOrderManage.Order);
-            // 
-            // productNameDataGridViewTextBoxColumn
-            // 
-            this.productNameDataGridViewTextBoxColumn.DataPropertyName = "ProductName";
-            this.productNameDataGridViewTextBoxColumn.HeaderText = "商品名";
-            this.productNameDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.productNameDataGridViewTextBoxColumn.Name = "productNameDataGridViewTextBoxColumn";
-            this.productNameDataGridViewTextBoxColumn.Width = 200;
-            // 
-            // productPriceDataGridViewTextBoxColumn
-            // 
-            this.productPriceDataGridViewTextBoxColumn.DataPropertyName = "ProductPrice";
-            dataGridViewCellStyle1.Format = "C2";
-            dataGridViewCellStyle1.NullValue = "0";
-            this.productPriceDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle1;
-            this.productPriceDataGridViewTextBoxColumn.HeaderText = "单价";
-            this.productPriceDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.productPriceDataGridViewTextBoxColumn.Name = "productPriceDataGridViewTextBoxColumn";
-            this.productPriceDataGridViewTextBoxColumn.Width = 200;
-            // 
-            // productAmountDataGridViewTextBoxColumn
-            // 
-            this.productAmountDataGridViewTextBoxColumn.DataPropertyName = "ProductAmount";
-            dataGridViewCellStyle2.NullValue = "0";
-            this.productAmountDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle2;
-            this.productAmountDataGridViewTextBoxColumn.HeaderText = "数目";
-            this.productAmountDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.productAmountDataGridViewTextBoxColumn.Name = "productAmountDataGridViewTextBoxColumn";
-            this.productAmountDataGridViewTextBoxColumn.Width = 200;
-            // 
             // AddOrder
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
@@ -365,9 +392,9 @@ namespace WindowsFormsOrderManage
             ((System.ComponentModel.ISupportInitialize)(this.bindingNavigator1)).EndInit();
             this.bindingNavigator1.ResumeLayout(false);
             this.bindingNavigator1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.itemBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.OrderDetails)).EndInit();
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.itemBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }

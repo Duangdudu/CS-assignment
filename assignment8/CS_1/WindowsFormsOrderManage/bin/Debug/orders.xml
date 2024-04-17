@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderID>1</OrderID>
+    <OrderTime>2024-04-17T16:14:55.4150241+08:00</OrderTime>
+    <CustomerName>11</CustomerName>
+    <Address>11</Address>
+    <TotalPrice>121</TotalPrice>
+    <OrderItemList>
+      <OrderItem>
+        <OrderItemId>1</OrderItemId>
+        <ProductName>11</ProductName>
+        <ProductPrice>11</ProductPrice>
+        <ProductAmount>11</ProductAmount>
+      </OrderItem>
+    </OrderItemList>
+  </Order>
+</ArrayOfOrder>

@@ -90,7 +90,7 @@ namespace WindowsFormsOrderManage
             this.mnsMain.Location = new System.Drawing.Point(0, 0);
             this.mnsMain.Name = "mnsMain";
             this.mnsMain.Padding = new System.Windows.Forms.Padding(9, 3, 0, 3);
-            this.mnsMain.Size = new System.Drawing.Size(1607, 48);
+            this.mnsMain.Size = new System.Drawing.Size(1831, 41);
             this.mnsMain.TabIndex = 0;
             this.mnsMain.Text = "menuStrip";
             // 
@@ -99,7 +99,7 @@ namespace WindowsFormsOrderManage
             this.aboutToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.dudu的订单管理器可直接点击工具导入导出订单ToolStripMenuItem});
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(82, 42);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(82, 35);
             this.aboutToolStripMenuItem.Text = "关于";
             // 
             // dudu的订单管理器可直接点击工具导入导出订单ToolStripMenuItem
@@ -115,7 +115,7 @@ namespace WindowsFormsOrderManage
             this.exportToolStripMenuItem});
             this.toolToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ControlText;
             this.toolToolStripMenuItem.Name = "toolToolStripMenuItem";
-            this.toolToolStripMenuItem.Size = new System.Drawing.Size(82, 42);
+            this.toolToolStripMenuItem.Size = new System.Drawing.Size(82, 35);
             this.toolToolStripMenuItem.Text = "工具";
             // 
             // importToolStripMenuItem
@@ -145,7 +145,7 @@ namespace WindowsFormsOrderManage
             this.flowLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Padding = new System.Windows.Forms.Padding(0, 16, 0, 0);
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(1607, 96);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(1831, 96);
             this.flowLayoutPanel1.TabIndex = 1;
             // 
             // btnShowAllOrders
@@ -154,7 +154,7 @@ namespace WindowsFormsOrderManage
             this.btnShowAllOrders.Location = new System.Drawing.Point(4, 21);
             this.btnShowAllOrders.Margin = new System.Windows.Forms.Padding(4, 5, 15, 5);
             this.btnShowAllOrders.Name = "btnShowAllOrders";
-            this.btnShowAllOrders.Size = new System.Drawing.Size(453, 48);
+            this.btnShowAllOrders.Size = new System.Drawing.Size(184, 48);
             this.btnShowAllOrders.TabIndex = 3;
             this.btnShowAllOrders.Text = "显示全部订单";
             this.btnShowAllOrders.UseVisualStyleBackColor = false;
@@ -163,10 +163,10 @@ namespace WindowsFormsOrderManage
             // btnAddOrder
             // 
             this.btnAddOrder.BackColor = System.Drawing.Color.MistyRose;
-            this.btnAddOrder.Location = new System.Drawing.Point(476, 21);
+            this.btnAddOrder.Location = new System.Drawing.Point(207, 21);
             this.btnAddOrder.Margin = new System.Windows.Forms.Padding(4, 5, 15, 5);
             this.btnAddOrder.Name = "btnAddOrder";
-            this.btnAddOrder.Size = new System.Drawing.Size(200, 48);
+            this.btnAddOrder.Size = new System.Drawing.Size(154, 48);
             this.btnAddOrder.TabIndex = 0;
             this.btnAddOrder.Text = "添加订单";
             this.btnAddOrder.UseVisualStyleBackColor = false;
@@ -175,10 +175,10 @@ namespace WindowsFormsOrderManage
             // btnRemoveOrder
             // 
             this.btnRemoveOrder.BackColor = System.Drawing.Color.MistyRose;
-            this.btnRemoveOrder.Location = new System.Drawing.Point(695, 21);
+            this.btnRemoveOrder.Location = new System.Drawing.Point(380, 21);
             this.btnRemoveOrder.Margin = new System.Windows.Forms.Padding(4, 5, 15, 5);
             this.btnRemoveOrder.Name = "btnRemoveOrder";
-            this.btnRemoveOrder.Size = new System.Drawing.Size(200, 48);
+            this.btnRemoveOrder.Size = new System.Drawing.Size(141, 48);
             this.btnRemoveOrder.TabIndex = 1;
             this.btnRemoveOrder.Text = "删除订单";
             this.btnRemoveOrder.UseVisualStyleBackColor = false;
@@ -187,10 +187,10 @@ namespace WindowsFormsOrderManage
             // btnModifyOrder
             // 
             this.btnModifyOrder.BackColor = System.Drawing.Color.MistyRose;
-            this.btnModifyOrder.Location = new System.Drawing.Point(914, 21);
+            this.btnModifyOrder.Location = new System.Drawing.Point(540, 21);
             this.btnModifyOrder.Margin = new System.Windows.Forms.Padding(4, 5, 15, 5);
             this.btnModifyOrder.Name = "btnModifyOrder";
-            this.btnModifyOrder.Size = new System.Drawing.Size(200, 48);
+            this.btnModifyOrder.Size = new System.Drawing.Size(138, 48);
             this.btnModifyOrder.TabIndex = 2;
             this.btnModifyOrder.Text = "修改订单";
             this.btnModifyOrder.UseVisualStyleBackColor = false;
@@ -209,7 +209,7 @@ namespace WindowsFormsOrderManage
             this.flowLayoutPanel2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.flowLayoutPanel2.Name = "flowLayoutPanel2";
             this.flowLayoutPanel2.Padding = new System.Windows.Forms.Padding(0, 16, 0, 0);
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(1607, 82);
+            this.flowLayoutPanel2.Size = new System.Drawing.Size(1831, 82);
             this.flowLayoutPanel2.TabIndex = 2;
             // 
             // cmbQueryType
@@ -224,14 +224,14 @@ namespace WindowsFormsOrderManage
             this.cmbQueryType.Location = new System.Drawing.Point(4, 24);
             this.cmbQueryType.Margin = new System.Windows.Forms.Padding(4, 8, 4, 5);
             this.cmbQueryType.Name = "cmbQueryType";
-            this.cmbQueryType.Size = new System.Drawing.Size(453, 32);
+            this.cmbQueryType.Size = new System.Drawing.Size(193, 32);
             this.cmbQueryType.TabIndex = 0;
             this.cmbQueryType.SelectedIndexChanged += new System.EventHandler(this.cmbQueryType_SelectedIndexChanged);
             // 
             // lblQueryType
             // 
             this.lblQueryType.AutoSize = true;
-            this.lblQueryType.Location = new System.Drawing.Point(473, 32);
+            this.lblQueryType.Location = new System.Drawing.Point(213, 32);
             this.lblQueryType.Margin = new System.Windows.Forms.Padding(12, 16, 4, 0);
             this.lblQueryType.Name = "lblQueryType";
             this.lblQueryType.Size = new System.Drawing.Size(106, 24);
@@ -240,19 +240,19 @@ namespace WindowsFormsOrderManage
             // 
             // txtKeyword
             // 
-            this.txtKeyword.Location = new System.Drawing.Point(587, 24);
+            this.txtKeyword.Location = new System.Drawing.Point(327, 24);
             this.txtKeyword.Margin = new System.Windows.Forms.Padding(4, 8, 4, 5);
             this.txtKeyword.Name = "txtKeyword";
-            this.txtKeyword.Size = new System.Drawing.Size(332, 35);
+            this.txtKeyword.Size = new System.Drawing.Size(116, 35);
             this.txtKeyword.TabIndex = 2;
             // 
             // btnQueryOrder
             // 
             this.btnQueryOrder.BackColor = System.Drawing.Color.MistyRose;
-            this.btnQueryOrder.Location = new System.Drawing.Point(953, 21);
+            this.btnQueryOrder.Location = new System.Drawing.Point(477, 21);
             this.btnQueryOrder.Margin = new System.Windows.Forms.Padding(30, 5, 4, 5);
             this.btnQueryOrder.Name = "btnQueryOrder";
-            this.btnQueryOrder.Size = new System.Drawing.Size(185, 48);
+            this.btnQueryOrder.Size = new System.Drawing.Size(145, 48);
             this.btnQueryOrder.TabIndex = 3;
             this.btnQueryOrder.Text = "查询订单";
             this.btnQueryOrder.UseVisualStyleBackColor = false;
@@ -274,8 +274,8 @@ namespace WindowsFormsOrderManage
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.groupBox2);
-            this.splitContainer1.Size = new System.Drawing.Size(1607, 383);
-            this.splitContainer1.SplitterDistance = 985;
+            this.splitContainer1.Size = new System.Drawing.Size(1818, 557);
+            this.splitContainer1.SplitterDistance = 1040;
             this.splitContainer1.SplitterWidth = 6;
             this.splitContainer1.TabIndex = 3;
             // 
@@ -287,7 +287,7 @@ namespace WindowsFormsOrderManage
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.groupBox1.Size = new System.Drawing.Size(985, 383);
+            this.groupBox1.Size = new System.Drawing.Size(1040, 557);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Orders";
@@ -314,7 +314,7 @@ namespace WindowsFormsOrderManage
             this.dgvOrderList.ReadOnly = true;
             this.dgvOrderList.RowHeadersWidth = 82;
             this.dgvOrderList.RowTemplate.Height = 27;
-            this.dgvOrderList.Size = new System.Drawing.Size(977, 345);
+            this.dgvOrderList.Size = new System.Drawing.Size(1032, 519);
             this.dgvOrderList.TabIndex = 0;
             this.dgvOrderList.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvOrderList_CellContentClick);
             // 
@@ -326,7 +326,7 @@ namespace WindowsFormsOrderManage
             this.groupBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.groupBox2.Size = new System.Drawing.Size(616, 383);
+            this.groupBox2.Size = new System.Drawing.Size(772, 557);
             this.groupBox2.TabIndex = 0;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "OrderDetails";
@@ -351,7 +351,7 @@ namespace WindowsFormsOrderManage
             this.dgvOrderItemList.ReadOnly = true;
             this.dgvOrderItemList.RowHeadersWidth = 82;
             this.dgvOrderItemList.RowTemplate.Height = 27;
-            this.dgvOrderItemList.Size = new System.Drawing.Size(608, 345);
+            this.dgvOrderItemList.Size = new System.Drawing.Size(764, 519);
             this.dgvOrderItemList.TabIndex = 0;
             // 
             // itemBindingSource
@@ -452,7 +452,7 @@ namespace WindowsFormsOrderManage
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Snow;
-            this.ClientSize = new System.Drawing.Size(1607, 626);
+            this.ClientSize = new System.Drawing.Size(1831, 801);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.flowLayoutPanel2);
             this.Controls.Add(this.flowLayoutPanel1);

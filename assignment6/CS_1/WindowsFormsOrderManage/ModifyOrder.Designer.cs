@@ -31,6 +31,9 @@ namespace WindowsFormsOrderManage
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ModifyOrder));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.customerLabel = new System.Windows.Forms.Label();
             this.customerName = new System.Windows.Forms.TextBox();
@@ -296,16 +299,40 @@ namespace WindowsFormsOrderManage
             // OrderDetails
             // 
             this.OrderDetails.AutoGenerateColumns = false;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.OrderDetails.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.OrderDetails.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.OrderDetails.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.productNameDataGridViewTextBoxColumn,
             this.productPriceDataGridViewTextBoxColumn,
             this.productAmountDataGridViewTextBoxColumn});
             this.OrderDetails.DataSource = this.itemBindingSource;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.OrderDetails.DefaultCellStyle = dataGridViewCellStyle3;
             this.OrderDetails.Dock = System.Windows.Forms.DockStyle.Fill;
             this.OrderDetails.Location = new System.Drawing.Point(4, 33);
             this.OrderDetails.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.OrderDetails.Name = "OrderDetails";
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.OrderDetails.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.OrderDetails.RowHeadersWidth = 82;
             this.OrderDetails.RowTemplate.Height = 27;
             this.OrderDetails.Size = new System.Drawing.Size(683, 275);
@@ -323,9 +350,9 @@ namespace WindowsFormsOrderManage
             // productPriceDataGridViewTextBoxColumn
             // 
             this.productPriceDataGridViewTextBoxColumn.DataPropertyName = "ProductPrice";
-            dataGridViewCellStyle1.Format = "C2";
-            dataGridViewCellStyle1.NullValue = "0";
-            this.productPriceDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle2.Format = "C2";
+            dataGridViewCellStyle2.NullValue = "0";
+            this.productPriceDataGridViewTextBoxColumn.DefaultCellStyle = dataGridViewCellStyle2;
             this.productPriceDataGridViewTextBoxColumn.HeaderText = "单价";
             this.productPriceDataGridViewTextBoxColumn.MinimumWidth = 10;
             this.productPriceDataGridViewTextBoxColumn.Name = "productPriceDataGridViewTextBoxColumn";
