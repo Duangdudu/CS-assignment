@@ -2,7 +2,7 @@
 <ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Order>
     <OrderID>1</OrderID>
-    <OrderTime>2024-04-17T16:14:55.4150241+08:00</OrderTime>
+    <OrderTime>2024-04-17T16:14:55.417</OrderTime>
     <CustomerName>11</CustomerName>
     <Address>11</Address>
     <TotalPrice>121</TotalPrice>
