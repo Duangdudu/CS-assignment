@@ -1,0 +1,531 @@
+﻿
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="aplus-core" content="aplus.js">
+    <meta name="ahot-aplus" content="1">
+    <meta name="aplus-rate-ahot" content="0.5">
+    <meta name="aplus-apm-track" content="on"/>
+    <meta name="aplus-rhost-v" content="v.aplus.aliyun.com">
+    <meta name="aplus-rhost-g" content="g.aplus.aliyun.com">
+    <title>开发者商店</title>
+    <link rel="icon" href="https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico" type="image/x-icon">
+    <meta name="data-spm" content="5176" />
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta property="og:title" content="开发者商店" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="https://img.alicdn.com/tfs/TB1qNVdXlGw3KVjSZFDXXXWEpXa-620-620.png" />
+    <meta property="page:id" content="3093738" />
+    <meta property="page:mode" content="offline" />
+    <meta property="page:version" content="5" />
+    <meta property="page:terminal" content="PC" />
+    <link rel="dns-prefetch" href="//g.alicdn.com" />
+    <link rel="dns-prefetch" href="//gw.alicdn.com" />
+    <link rel="dns-prefetch" href="//gm.mmstat.com" />
+    <link rel="dns-prefetch" href="//log.mmstat.com" />
+    <link rel="dns-prefetch" href="//query.aliyun.com" />
+    <meta name="aplus-mmstat-timeout" content="60000" />
+    
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"  >
+    
+    
+    
+    
+    <link rel="stylesheet" href="https://g.alicdn.com/??aliyun/dbl-official-ui/2.0.1/css/index.css,dawn/ace-element/0.0.60/index.css,hmod/ace-grid-layout-2023/0.0.2/index.css">
+    
+    <link rel="stylesheet" href="//at.alicdn.com/t/a/font_1175572_77a2hn4ww6y.css">
+    
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_276948_28ii451l5wi.css">
+    
+    <link rel="stylesheet" href="//at.alicdn.com/t/a/font_274588_tf6h927cvbl.css">
+    
+    <link rel="stylesheet" href="https://g.alicdn.com/??hmod/ace-homepage-2020-hmod-footer/0.1.2/index.css">
+    
+    
+    
+      
+      <style>
+    body{
+      background:#fff;
+    }
+    </style>
+      
+    
+      
+    <style>
+    :root{--t1:#fff;--t2:#f4f4f4;--t3:#ededed;--t4:#d8d8d8;--t5:#b3b3b3;--t6:#999;--t7:#666;--t8:#3d3d3d;--t9:#181818;--mode:light;--c1:#FF6A00;--l4:#ff8833;--l3:#ffb580;--l2:#ffe1cc;--l1:#fff0e5;--d1:#cc5500;--d2:#994000;--d3:#662a00;--d4:#4d2000;--scene:channel}
+    </style>
+    
+    
+       <meta name='aplus-core' content='aplus.js' /> 
+    
+  </head>
+  <body data-spm="28767748"><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=214780ec17147448579278663e7954&asid=AQAAAAAZ7jRmMv38bwAAAADSRzxe/5vIgQ==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+<script  type="text/javascript">
+(function(d)  {
+  var cookies=d.cookie.split(';').map(function(item){return item.trim().split('=')});
+  function getcookie(name){
+    var item=cookies.find(function(item){return item[0]==name});
+    return item?encodeURIComponent(item[1]):'';
+  }
+  var t=d.createElement("script");t.type="text/javascript";t.async=true;t.id="tb-beacon-aplus";
+  t.setAttribute("exparams","category=&userid=&aplus&yunid="+getcookie("login_aliyunid")+"&yunpk="+getcookie("login_aliyunid_pk")+"&current_pk="+getcookie("login_current_pk")+"&channel="+getcookie("channel")+"&cps="+getcookie("cps"));
+  t.src="//g.alicdn.com/alilog/mlog/aplus_v2.js";
+  d.getElementsByTagName("head")[0].appendChild(t);
+})(document);
+</script>
+
+    <script>
+      var _performance_domStart = window.performance && window.performance.now();
+    </script>
+    <!-- start module -->
+    
+      
+        <div
+        id="J_9840813100"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="9840813100"
+        data-spm="J_9840813100" 
+        data-module-id="9840813100"
+        data-module-name="@ali/hmod-ace-market-blogoshpere"
+        data-version="0.0.12">
+          
+        </div>
+    
+      
+        <div
+        id="J_1695745670"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="1695745670"
+        data-spm="J_1695745670" 
+        data-module-id="1695745670"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_8436055230"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="8436055230"
+        data-spm="J_8436055230" 
+        data-module-id="8436055230"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_1279342950"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="1279342950"
+        data-spm="J_1279342950" 
+        data-module-id="1279342950"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_4996764970"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="4996764970"
+        data-spm="J_4996764970" 
+        data-module-id="4996764970"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_2044639960"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="2044639960"
+        data-spm="J_2044639960" 
+        data-module-id="2044639960"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_1157486540"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="1157486540"
+        data-spm="J_1157486540" 
+        data-module-id="1157486540"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_6812165350"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="6812165350"
+        data-spm="J_6812165350" 
+        data-module-id="6812165350"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_3951375200"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="3951375200"
+        data-spm="J_3951375200" 
+        data-module-id="3951375200"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_8119476060"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="8119476060"
+        data-spm="J_8119476060" 
+        data-module-id="8119476060"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_3103820680"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="3103820680"
+        data-spm="J_3103820680" 
+        data-module-id="3103820680"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_4612527960"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="4612527960"
+        data-spm="J_4612527960" 
+        data-module-id="4612527960"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_4220625880"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="4220625880"
+        data-spm="J_4220625880" 
+        data-module-id="4220625880"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_7855301310"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="7855301310"
+        data-spm="J_7855301310" 
+        data-module-id="7855301310"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_9992308700"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="9992308700"
+        data-spm="J_9992308700" 
+        data-module-id="9992308700"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_7324804380"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="7324804380"
+        data-spm="J_7324804380" 
+        data-module-id="7324804380"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_7638152070"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="7638152070"
+        data-spm="J_7638152070" 
+        data-module-id="7638152070"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_9781375280"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="9781375280"
+        data-spm="J_9781375280" 
+        data-module-id="9781375280"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_6528582230"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="6528582230"
+        data-spm="J_6528582230" 
+        data-module-id="6528582230"
+        data-module-name="@ali/hmod-ace-market-listRanking"
+        data-version="0.0.10">
+          
+        </div>
+    
+      
+        <div
+        id="J_3019410150"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="3019410150"
+        data-spm="J_3019410150" 
+        data-module-id="3019410150"
+        data-module-name="@ali/hmod-ace-market-primary-title"
+        data-version="0.0.7">
+          
+        </div>
+    
+      
+        <div
+        id="J_3312697730"
+        style="background-color:#F5F5F6;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="3312697730"
+        data-spm="J_3312697730" 
+        data-module-id="3312697730"
+        data-module-name="@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend"
+        data-version="0.0.9">
+          
+        </div>
+    
+      
+        <div
+        id="J_5804432930"
+        style="background-color:#fff;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="5804432930"
+        data-spm="J_5804432930" 
+        data-module-id="5804432930"
+        data-module-name="@ali/hmod-ace-market-lift"
+        data-version="0.0.3">
+          
+        </div>
+    
+      
+        <div
+        id="J_1604261590"
+        style="background-color:#FFFFFF;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="1604261590"
+        data-spm="J_1604261590" 
+        data-module-id="1604261590"
+        data-module-name="@ali/hmod-ace-dbl-activityrulemod-commom"
+        data-version="0.0.11">
+          
+        </div>
+    
+      
+        <div
+        id="J_9220772140"
+        style="background-color:#fff;"
+        class="aliyun-module"
+        data-homon-module
+        
+        
+        data-id="9220772140"
+        data-spm="J_9220772140" 
+        data-module-id="9220772140"
+        data-module-name="@ali/hmod-ace-homepage-2020-hmod-footer"
+        data-version="0.1.2">
+          
+        </div>
+    
+      
+<script>
+  var _performance_domEnd = window.performance && window.performance.now();
+  </script>
+
+    
+    <!-- end module -->
+    
+    <script defer src="https://cloud-assets.alicdn.com/website.js" ></script>
+    <script id="script-page-config">
+      window.$PAGE_CONFIG = {"ACE_SERVICES":[{"moduleName":"Goods-cart","assets":["https://g.alicdn.com/BigDipper/goods-model/{{version}}/index.js"],"globalName":"$ACE.GoodsService","version":"0.2.35"},{"moduleName":"GoodsService","assets":["https://g.alicdn.com/BigDipper/goods-service/{{version}}/index.js"],"globalName":"$ACE.GDService","version":"0.0.10"},{"moduleName":"Goods","assets":["https://g.alicdn.com/BigDipper/goods-model/{{version}}/index.js"],"globalName":"$ACE.GoodsService","version":"0.2.35"},{"moduleName":"Goods-2","assets":["https://g.alicdn.com/BigDipper/goods-model/{{version}}/index.js"],"globalName":"$ACE.GoodsService","version":"0.2.35"},{"moduleName":"Dashi","version":"1.2.68"},{"moduleName":"Content","version":"1.3.0"},{"moduleName":"Component","version":"1.0.72"},{"moduleName":"Delivery","version":"1.2.114"},{"moduleName":"Bigdipper","version":"1.2.103"},{"moduleName":"Promotion","version":"1.2.110"},{"moduleName":"Account","version":"1.2.109"},{"moduleName":"Leads","version":"1.2.90"},{"moduleName":"Ablab","version":"1.1.55"},{"moduleName":"Share","version":"1.0.189"},{"moduleName":"FormDialog","version":"1.0.120"},{"moduleName":"GroupBuy","version":"1.1.45"},{"moduleName":"Enhancement","version":"1.1.63"},{"moduleName":"Live","version":"1.1.36"},{"moduleName":"Console","version":"1.2.10"},{"moduleName":"Feedback","version":"1.2.53"},{"moduleName":"DataManager","version":"1.2.98"},{"moduleName":"WithDraw","version":"1.2.84"},{"moduleName":"FastAuth","assets":["https://o.alicdn.com/dawn/fe-fast-auth/index.js"],"globalName":"$ACE.FastAuth","version":"0.0.1"}],"version":"2","id":"3093738","env":"production","PLUGINS":{"metaSet":{"staticRender":"关闭"},"seoSet":{"customHTML":"","SEOHTML":"","keywords":"","alternate":""},"shareSet":{"title":"","content":"","img":""},"backgroundSet":{"background":"#fff"},"themeSet":{"anchorOffset":"-60","tmsConfig":"否","mobilePage":"否"},"headerFooterConfig":{"headerSection":"跟随频道","footerSection":"跟随频道","mobileBanner":"显示","mobileConsult":"不显示","awakeApp":false},"plugin_theme":{"title":"阿里云官网白橙主题/品牌类","mode":"light","scene":"channel","c1":"#FF6A00","l1":"#fff0e5","l2":"#ffe1cc","l3":"#ffb580","l4":"#ff8833","d1":"#cc5500","d2":"#994000","d3":"#662a00","d4":"#4d2000"}},"modules":[{"id":"9840813100","spm":"J_9840813100","name":"hmod-ace-market-blogoshpere","fullName":"@ali/hmod-ace-market-blogoshpere","version":"0.0.12","props":{"title":"开发者商店","desc":"阿里云云市场和博客园联合提供","products":[{"title":"数据与API","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=56956004&distributorUid=1298651266728913"},{"title":"AI工具","link":"https://market.aliyun.com/agents/bkyAI"},{"title":"专业服务","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=52734001&distributorUid=1298651266728913"},{"title":"基础软件","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=53366009&distributorUid=1298651266728913"},{"title":"建站小程序","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=52738001&distributorUid=1298651266728913"},{"title":"企业应用","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=56832009&distributorUid=1298651266728913"},{"title":"IoT","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=201194001&distributorUid=1298651266728913"},{"title":"安全","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=56764045&distributorUid=1298651266728913"},{"title":"新零售市场","link":"https://market.aliyun.com/agents/developerstore/list?categoryId=205810701&distributorUid=1298651266728913"}],"logoUrl":"https://img.alicdn.com/imgextra/i1/O1CN01Zazmy81evMcSvBwYi_!!6000000003933-2-tps-493-56.png","bannerUrl":"https://img.alicdn.com/imgextra/i3/O1CN01E84jNz1sB1BATEF3n_!!6000000005727-2-tps-3840-480.png","subBannerUrl":"https://img.alicdn.com/imgextra/i1/O1CN01oV8egc29Ja3da2HMf_!!6000000008047-2-tps-1592-196.png","categoryLogo":"https://img.alicdn.com/imgextra/i1/O1CN015Q6Qee1BwASRSJjwp_!!6000000000009-2-tps-36-36.png","enableSearch":true,"enableLongBanner":true,"enableCategories":true,"searchUrl":"https://market.aliyun.com/agents/developerstore/list","helpUrl":"https://help.aliyun.com/document_detail/147330.html","contactUsUrl":"https://smartservice.console.aliyun.com/service/list","sliders":[{"img":"https://img.alicdn.com/imgextra/i3/O1CN01lQfiBb1bPM8YEXi38_!!6000000003457-2-tps-3840-480.png","title":"AI赋能产品及应用  ","description":"各类AI应用及产品助力开发者高效创新，释放潜能。","href":"https://market.aliyun.com/agents/bkyAI"},{"img":"https://img.alicdn.com/imgextra/i3/O1CN01E84jNz1sB1BATEF3n_!!6000000005727-2-tps-3840-480.png","title":"开发者商店","description":"阿里云云市场和博客园联合提供"}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":true},{"id":"1695745670","spm":"J_1695745670","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"新人权益","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"-10","marginBottom":"-10","contentBackground":"","paddingHoz":"0","paddingTop":"-10","paddingBottom":"-10","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":true},{"id":"8436055230","spm":"J_8436055230","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"新人权益","level2Tabs":[{"label":"免费试用","code":"distribute_promotion_fee","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":28},{"label":"首单1-5折","code":"distribute_promotion_firstbuy_discount","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":16}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":true},{"id":"1279342950","spm":"J_1279342950","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"限时优惠","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":true},{"id":"4996764970","spm":"J_4996764970","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"限时特惠","level2Tabs":[{"label":"单品优惠","code":"distribute_promotion_singleproduct_discount","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":12},{"label":"限时领券","code":"distribute_promotion_coupon","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":12}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":true},{"id":"2044639960","spm":"J_2044639960","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"开发者常买","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"1157486540","spm":"J_1157486540","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"开发者常买","level2Tabs":[{"label":"开发者常买","code":"distribute_dev","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":24}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default","verifyCode":""},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"6812165350","spm":"J_6812165350","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"智能认证识别","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"3951375200","spm":"J_3951375200","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"智能认证识别","level2Tabs":[{"label":"实名认证","code":"distribute_identification_authentication","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":28},{"label":"文字识别","distributerUid":"1298651266728913","code":"distribute_identification_word","distributorUid":"1298651266728913","pageSize":20},{"label":"图像识别","distributerUid":"1298651266728913","code":"distribute_identification_image","distributorUid":"1298651266728913","pageSize":20},{"label":"智能识别","distributerUid":"1298651266728913","code":"distribute_identification","distributorUid":"1298651266728913","pageSize":20},{"label":"手机查询","distributerUid":"1298651266728913","code":"distribute_identification_phonenum","distributorUid":"1298651266728913","pageSize":24}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"8119476060","spm":"J_8119476060","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"技术KOL","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"3103820680","spm":"J_3103820680","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"  个人KOL","level2Tabs":[{"label":"无线建站","code":"distribute_kol_website","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":28},{"label":"AIGC","distributerUid":"1298651266728913","code":"distribute_kol_aigc","distributorUid":"1298651266728913","pageSize":8},{"label":"内容创作","distributerUid":"1298651266728913","code":"distribute_kol_content","distributorUid":"1298651266728913","pageSize":4},{"label":"营销推广","distributerUid":"1298651266728913","code":"distribute_kol_seo","distributorUid":"1298651266728913","pageSize":40},{"label":"自我成长","distributerUid":"1298651266728913","code":"distribute_kol_exam","distributorUid":"1298651266728913","pageSize":8}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"4612527960","spm":"J_4612527960","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"创业必备","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"4220625880","spm":"J_4220625880","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":" 创业必备","level2Tabs":[{"label":"企业资质","code":"distribute_business_certification","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":28},{"label":"知识产权","distributerUid":"1298651266728913","code":"distribute_business_brand","distributorUid":"1298651266728913","pageSize":12},{"label":"企业建站","distributerUid":"1298651266728913","code":"distribute_business_website","distributorUid":"1298651266728913","pageSize":28},{"label":"域名服务","distributerUid":"1298651266728913","code":"distribute_business_dns","distributorUid":"1298651266728913","pageSize":20},{"label":"企业经营","distributerUid":"1298651266728913","code":"distribute_business_erp","distributorUid":"1298651266728913","pageSize":16}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"7855301310","spm":"J_7855301310","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"镜像与开发","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"9992308700","spm":"J_9992308700","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"镜像与开发","level2Tabs":[{"label":"运行环境","code":"distribute_dev_runtime","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":28},{"label":"操作系统","distributerUid":"1298651266728913","code":"distribute_dev_system","distributorUid":"1298651266728913","pageSize":28},{"label":"镜像软件","distributerUid":"1298651266728913","code":"distribute_dev_software","distributorUid":"1298651266728913","pageSize":28}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"7324804380","spm":"J_7324804380","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"数据安全","color":"#181818"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"7638152070","spm":"J_7638152070","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"数据安全","level2Tabs":[{"label":"数据与安全","code":"distribute_data_safe","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":20},{"label":"数据库","distributerUid":"1298651266728913","code":"distribute_data_db","distributorUid":"1298651266728913","pageSize":12},{"label":"服务器与邮箱","distributerUid":"1298651266728913","code":"distribute_data_mail","distributorUid":"1298651266728913","pageSize":12},{"label":"运维服务与其他","distributerUid":"1298651266728913","code":"distribute_data_operation","distributorUid":"1298651266728913","pageSize":36}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"9781375280","spm":"J_9781375280","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"热销榜单","color":""},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"6528582230","spm":"J_6528582230","name":"hmod-ace-market-listRanking","fullName":"@ali/hmod-ace-market-listRanking","version":"0.0.10","props":{"name":"热销榜单","listTypes":[{"title":"热销榜","tabs":[{"title":"近90天热销榜","products":[{"code":"cmgj027604"},{"code":"cmgj027604"}],"code":"distribute_top_hot","distributerUid":"1298651266728913","distributorUid":"1298651266728913"}]},{"title":"新品榜","tabs":[{"code":"distribute_top_new","distributerUid":"1298651266728913","title":"新品热榜","distributorUid":"1298651266728913"}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"3019410150","spm":"J_3019410150","name":"hmod-ace-market-primary-title","fullName":"@ali/hmod-ace-market-primary-title","version":"0.0.7","props":{"title":"猜你喜欢"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"","marginBottom":"","contentBackground":"","paddingHoz":"","paddingTop":"","paddingBottom":"","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"","marginBottom":"","contentBackground":"","paddingHoz":"","paddingTop":"","paddingBottom":"","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"3312697730","spm":"J_3312697730","name":"hmod-ace-market-develop-recoace-market-develop-recommendmmend","fullName":"@ali/hmod-ace-market-develop-recoace-market-develop-recommendmmend","version":"0.0.9","props":{"level1Tabs":[{"label":"猜你喜欢","level2Tabs":[{"label":"猜你喜欢","code":"distribute_guess","distributerUid":"1298651266728913","distributorUid":"1298651266728913","pageSize":32}]}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#F5F5F6","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"5804432930","spm":"J_5804432930","name":"hmod-ace-market-lift","fullName":"@ali/hmod-ace-market-lift","version":"0.0.3","props":{"list":[{"id":"J_1695745670","name":"新人权益"},{"name":"限时优惠","id":"J_1279342950"},{"name":"开发者常买","id":"J_2044639960"},{"name":"智能认证识别","id":"J_6812165350"},{"name":"技术KOL","id":"J_8119476060"},{"name":" 创业必备","id":"J_4612527960"},{"name":"镜像与开发","id":"J_7855301310"},{"name":"数据安全","id":"J_7324804380"},{"name":"热销榜单","id":"J_9781375280"},{"name":"猜你喜欢","id":"J_3019410150"}],"ifShow":"noShow"},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"1604261590","spm":"J_1604261590","name":"hmod-ace-dbl-activityrulemod-commom","fullName":"@ali/hmod-ace-dbl-activityrulemod-commom","version":"0.0.11","props":{"textConfig":{"ruleText":"<p style=\"text-align:center;\" class=\"MsoNormal\" align=\"center\"><span style=\"color:#000000\"><span style=\"font-size:24px\"><strong>阿里云·云市场商品活动规则</strong></span></span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">一 、活动对象</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">阿里云官网实名认证会员用户</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">二、活动时间</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">具体商品展示和对应优惠时间，请以商家商品页面实际展示为准。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">三、活动规则</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">1、本页面【</span><span style=\"color:#000000\"><span style=\"color:#ff6a00\"><a href=\"https://market.aliyun.com/\">https://market.aliyun.com/</a></span></span><span style=\"color:#181818\">】提供的全部活动均直接由服务商提供。页面的商品优惠共有三种类型：免费试用、商品限时优惠（或首单优惠）、商品优惠券。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">2、免费试用</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（1） 符合“参与对象”的同一用户（需完成实名认证）仅能对同一产品申请一次试用机会。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（2） 0元订单到期：到期后会关停服务，请用户及时续费，以免影响正常试用。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（3） 试用产品续费、升级：试用结束后用户如需续费，可根据产品页面展示的试用后权益享受相应的续费优惠；如在试用过程中需要升级，按照页面提示升级但可能会产生相关费用。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">3、新人首单优惠</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（1） 新用户通过本活动页面购买商品，可享受相应优惠，具体优惠信息和限制条件以页面实际显示为准。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（2） 产品新用户专享规则：商品优惠适用于未购买过此商品的用户，同一用户限首次首件，退订后将不支持再次参加活动。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（3） 产品新用户是指在某款产品上未有过大于0元新购订单及产生大于0元后付费账单。其他具体优惠限制、优惠力度、限购数量以页面显示为准。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">4、新老同享用户优惠</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（1） 用户通过本活动页面购买商品，可享受相应优惠，具体优惠信息和限制条件以页面实际显示为准。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（2） 商品优惠若有限购台数限制，以购买页面可加购数量为准。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">5、商品优惠券</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（1） 活动期内，同一用户有一次或多次领券机会（优惠券由服务商提供和设置，具体以商品详情页的优惠展示为准），优惠券发放至用户登录账号，可登录“我的阿里云-常用工具-卡券-优惠券”费用中心进行查询。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（2） 优惠券分为满减券和折扣券两种，用户可以在活动页一键领取，或选择单个产品到其商品详情页领取。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（3） 优惠券由各个服务商提供，用户如对优惠券的使用有异议，可以咨询对应的服务商。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（4） 优惠券可用于新购、续费、升级等，具体适用范围可查看优惠券的详情。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（5） 优惠券不可跨店使用和不可叠加使用。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">（6） 优惠使用范围：用户在商品详情页或活动页点击商品卡片购买阿里云云市场（网址：</span><span style=\"color:#000000\"><span style=\"color:#ff6a00\"><a href=\"https://market.aliyun.com/\">https://market.aliyun.com/</a></span></span><span style=\"color:#181818\">）的商品时，单商品订单有效金额满足满减额度或折扣额度，即可使用对应优惠（具体以页面展示内容为准）。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">6、用户参加本页面购买的云市场产品，按云市场《用户使用指引规则》（指引地址：</span><span style=\"color:#000000\"><span style=\"color:#ff6a00\"><a href=\"https://help.aliyun.com/document_detail/147330.html\">https://help.aliyun.com/document_detail/147330.html</a></span></span><span style=\"color:#181818\">）进行售后服务处理。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">7、优惠活动名称、类型或本页面展示文案仅为方便用户理解参考使用，不具有效力，实际内容以具体规则为准。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">8、如用户在活动中存在隐瞒、虚构、作弊、欺诈或通过其他非正常手段规避活动规则、获取不当利益的行为，例如：作弊领取、恶意套现、网络攻击、虚假交易等，阿里云有权收回相关权益、取消用户的活动参与资格，撤销违规交易，必要时追究违规用户的法律责任。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">9、阿里云可以根据活动的实际情况对活动规则进行变动或调整，相关变动或调整将公布在活动页面上，并于公布时即时生效；但不影响用户在活动规则调整前已经获得的权益。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">四、名词解释</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">1、“阿里云云市场官网”，是指包含域名为market.aliyun.com的网站。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">2、“同一用户”，是指根据不同阿里云账号在注册、登录、使用中的关联信息，阿里云判断其实际为同一用户。关联信息举例：同一手机号、同一邮箱、同一证件等。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">3、“同人账号”，是指同一用户拥有多个阿里云账号的，各个账号之间互为同人账号。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">4、活动中涉及“打折”、“折扣”、“×折”或“省××元”，是指将本活动期间的某款产品的活动价格，与无任何活动期间的相同产品的日常最小单位售价（例如：月售价），按相同购买时长进行比较后，所获得的比较结果。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">5、活动涉及的“划线价”、“日常价”，通常是指该产品曾经展示过的销售价，并非原价，仅供参考。具体活动页面单独对“划线价”、“日常价”进行说明的，以其表述为准。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">6、除非有相反证据证明外，用户参与活动所获得的全部权益和相应责任，均归属于参与活动的该阿里云账号所对应的实名认证主体。</span></p><p style=\"text-align:left;\" class=\"MsoNormal\" align=\"left\"><span style=\"color:#181818\">7、活动中的“天”、“工作日”等均指该日的0点至24点（北京时间）。</span></p>"},"uiConfig":{"maxHeight":1500}},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"#FFFFFF","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false},{"id":"9220772140","spm":"J_9220772140","name":"hmod-ace-homepage-2020-hmod-footer","fullName":"@ali/hmod-ace-homepage-2020-hmod-footer","version":"0.1.2","props":{"webchat":[],"showStyle":"首页","recommendText":"留下您的联系方式，专属客户经理会高效快速帮您解决上云问题，同时可获得专属优惠","blackPage":[],"advantages":[{"content":"4008013260","label":"联系我们"}],"mainServices":[{"title":"为什么选择阿里云","subTitle":[{"serviceLink":"https://www.aliyun.com/about/what-is-cloud-computing","serviceText":"什么是云计算"},{"serviceText":"全球基础设施","serviceLink":"https://infrastructure.aliyun.com/"},{"serviceText":"技术先进","serviceLink":"https://www.aliyun.com/why-us/leading-technology"},{"serviceText":"稳定可靠","serviceLink":"https://www.aliyun.com/why-us/reliability"},{"serviceText":"安全合规","serviceLink":"https://www.aliyun.com/why-us/security-compliance"},{"serviceText":"分析师报告","serviceLink":"https://www.aliyun.com/analyst-reports"}]},{"subTitle":[{"serviceText":"全部产品","serviceLink":"https://www.aliyun.com/product/list"},{"serviceText":"免费试用","serviceLink":"https://free.aliyun.com/"},{"serviceText":"产品动态","serviceLink":"https://www.aliyun.com/product/news"},{"serviceText":"产品定价","serviceLink":"https://www.aliyun.com/price"},{"serviceText":"价格计算器","serviceLink":"https://www.aliyun.com/price/product"},{"serviceText":"云上成本管理","serviceLink":"https://www.aliyun.com/price/cost-management"}],"title":"产品和定价"},{"title":"解决方案","subTitle":[{"serviceText":"技术解决方案","serviceLink":"https://www.aliyun.com/solution/tech-solution"}]},{"title":"文档与社区","subTitle":[{"serviceText":"文档","serviceLink":"https://help.aliyun.com/"},{"serviceText":"开发者社区","serviceLink":"https://developer.aliyun.com/"},{"serviceText":"天池大赛","serviceLink":"https://tianchi.aliyun.com/"},{"serviceText":"培训与认证","serviceLink":"https://edu.aliyun.com/"}]},{"title":"权益中心","subTitle":[{"serviceText":"免费试用","serviceLink":"https://free.aliyun.com/"},{"serviceLink":"https://university.aliyun.com/","serviceText":"高校计划"},{"serviceLink":" https://startup.aliyun.com/startups","serviceText":"企业扶持计划"},{"serviceLink":"https://promotion.aliyun.com/ntms/yunparter/index","serviceText":"推荐返现计划"}]},{"title":"支持与服务","subTitle":[{"serviceText":"基础服务","serviceLink":"https://www.aliyun.com/service"},{"serviceText":"企业增值服务","serviceLink":"https://www.aliyun.com/service/supportplans"},{"serviceText":"迁云服务","serviceLink":"https://www.aliyun.com/service/devopsimpl/devopsimpl_cloudmigration_public_cn"},{"serviceLink":"https://www.aliyun.com/notice","serviceText":"官网公告"},{"serviceLink":"https://status.aliyun.com/","serviceText":"健康看板"},{"serviceText":"信任中心","serviceLink":"https://security.aliyun.com/trust"}]}],"focusUs":{"title":"关注阿里云","tips":[{"tipsName":"阿里云APP","tipsLink":"https://www.aliyun.com/aliyunapp/web/download","codeImgSrc":"https://img.alicdn.com/tfs/TB1UdKEM6TpK1RjSZKPXXa3UpXa-256-256.png"},{"tipsName":"阿里云微信","tipsLink":"","codeImgSrc":"https://img.alicdn.com/tfs/TB1AOdINW6qK1RjSZFmXXX0PFXa-258-258.jpg"}],"desc":"关注阿里云公众号或下载阿里云APP，关注云资讯，随时随地运维管控云服务"},"products":[],"copyright":{"copyrightText":"© 2009-2024 Aliyun.com 版权所有 增值电信业务经营许可证： <a href=\"http://beian.miit.gov.cn/\" target=\"_blank\">浙B2-20080101</a> 域名注册服务机构许可： <a href=\"https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里云计算有限公司 \" target=\"_blank\">浙D3-20210002</a> <a href=\"https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里巴巴云计算北京有限公司 \" target=\"_blank\">京D3-20220015</a>","aboutList":[{"aboutName":"法律声明","aboutLink":"https://help.aliyun.com/product/67275.html"},{"aboutName":"Cookies政策","aboutLink":"https://terms.alicdn.com/legal-agreement/terms/platform_service/20220906101446934/20220906101446934.html"},{"aboutName":"廉正举报","aboutLink":"https://aliyun.jubao.alibaba.com"},{"aboutName":"安全举报","aboutLink":"https://report.aliyun.com/"},{"aboutName":"联系我们","aboutLink":"https://www.aliyun.com/contact"},{"aboutName":"加入我们","aboutLink":"https://careers.aliyun.com/"}],"friendList":[{"friendName":"阿里巴巴集团","friendLink":"https://www.alibabagroup.com/cn/global/home"},{"friendName":"淘宝网","friendLink":"https://www.taobao.com/"},{"friendName":"天猫","friendLink":"https://www.tmall.com/"},{"friendName":"全球速卖通","friendLink":"https://www.aliexpress.com/"},{"friendName":"阿里巴巴国际交易市场","friendLink":"https://www.alibaba.com/"},{"friendName":"1688","friendLink":"https://www.1688.com/"},{"friendName":"阿里妈妈","friendLink":"https://www.alimama.com/index.htm"},{"friendName":"飞猪","friendLink":"https://www.fliggy.com/"},{"friendName":"阿里云计算","friendLink":"https://www.aliyun.com/"},{"friendName":"AliOS","friendLink":"https://www.alios.cn/"},{"friendName":"万网","friendLink":"https://wanwang.aliyun.com/"},{"friendName":"高德","friendLink":"https://mobile.amap.com/"},{"friendName":"UC","friendLink":"https://www.uc.cn/"},{"friendName":"友盟","friendLink":"https://www.umeng.com/"},{"friendName":"优酷","friendLink":"https://www.youku.com/"},{"friendName":"钉钉","friendLink":"https://www.dingtalk.com/"},{"friendName":"支付宝","friendLink":"https://www.alipay.com/"},{"friendName":"达摩院","friendLink":"https://damo.alibaba.com/"},{"friendName":"淘宝海外","friendLink":"https://world.taobao.com/  "},{"friendName":"阿里云盘","friendLink":"https://www.aliyundrive.com/  "},{"friendName":"饿了么","friendLink":"https://www.ele.me/"}],"recordText":"浙公网安备 33010602009975号","reportList":[{"reportLink":"https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do?showType=p&serial=91330106673959654P-SAIC_SHOW_10000091330106673959654P1710919400712&signData=MEUCIQDEkCd8cK7/yqe6BNMWvoMPtAnsgKa7FZetfPkjZMsvhAIgOX1G9YC6FKyndE7o7hL0KaBVn4f+V/iof3iAgpsV09o=","logoSrc":"//gw.alicdn.com/tfs/TB1GxwdSXXXXXa.aXXXXXXXXXXX-65-70.gif"},{"logoSrc":"//img.alicdn.com/tfs/TB1..50QpXXXXX7XpXXXXXXXXXX-40-40.png","reportLink":"http://www.beian.gov.cn/portal/registerSystemInfo","reportText":"浙公网安备 33010602009975号"},{"logoSrc":"","reportLink":"https://beian.miit.gov.cn/","reportText":"浙B2-20080101-4"}]},"h5HotProduct":[{"title":"新人特惠专场","href":"https://www.aliyun.com/activity/daily/aliyun-mobile-promotion?spm=5176.14406642.root.16.ccfc20fcU7LC17"},{"title":"云服务器","href":"https://www.aliyun.com/product/ecs"},{"title":"轻量应用服务器","href":" https://www.aliyun.com/product/swas"},{"href":"https://ac.aliyun.com/application/webdesign/sumei2022","title":"网站建设"},{"title":"对象存储","href":"https://www.aliyun.com/product/oss"},{"title":"关系型数据库","href":"https://www.aliyun.com/product/rds/mysql?spm=5176.23865530.J_8058803260.34.537163c0ojP2o1"},{"title":"短信服务","href":"https://www.aliyun.com/product/sms?spm=5176.10695662.1128094.2.27b83583oKiPel"}],"showConsultation":"隐藏","h5Copyright":"© 2009-2024 Aliyun.com 版权所有<br/>增值电信业务经营许可证： <a href=\"http://beian.miit.gov.cn/\" target=\"_blank\">浙B2-20080101</a> <br/>域名注册服务机构许可： <a href=\"https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里云计算有限公司 \" target=\"_blank\">浙D3-20210002</a> <a href=\"https://domain.miit.gov.cn/域名注册服务机构/互联网域名/阿里巴巴云计算北京有限公司 \" target=\"_blank\">京D3-20220015</a>","h5IsShow":true,"h5DeliveryId":"936","h5OmitUA":"FingerBrowser,Sogou,baidu,Aliyun,Alipay,Macintosh","h5DrainageAppConfig":{"elasticLayerTitle":"继续浏览内容","elasticLayerContentTitle":"阿里云","elasticLayerContentDes":"以科技创未来","elasticLayerLog":"https://img.alicdn.com/imgextra/i4/O1CN01buZvOn23Btc596ZPv_!!6000000007218-2-tps-144-144.png","elasticLayerMajorBtn":"打开APP","elasticLayerSecondaryBtn":"继续浏览","fadeOutRollBtn":"打开APP，查看更多云计算领域专业内容"},"h5FriendLinks":[{"title":"文档","href":"https://help.aliyun.com/"},{"title":"开发者社区","href":"https://developer.aliyun.com/"},{"href":"https://tianchi.aliyun.com/","title":"天池大赛"},{"href":"https://edu.aliyun.com/","title":"培训与认证"}]},"limitConfig":{},"settings":{"recommend":{"visibleMode":"default"},"anchor":{"visibleMode":"all"},"pc":{"background":"","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false},"h5":{"background":"","horizontal":"默认","verticalNumber":0,"marginTop":"0","marginBottom":"0","contentBackground":"","paddingHoz":"0","paddingTop":"0","paddingBottom":"0","backgroundImage":"","autoHeight":false}},"isFirstScreen":false}]}
+    </script>
+    
+    
+    
+    <script crossorigin src="https://g.alicdn.com/??dawn/polyfill/2.0.0/js/index.js,dawn/ace-static/0.0.2/react.js,dawn/ace-static/0.0.2/react-dom.js,aliyun/util/1.2.30/index.js,dawn/ace-element/0.0.60/index.js"></script>
+    
+    <script crossorigin src="https://g.alicdn.com/??code/lib/jquery/1.11.3/jquery.min.js"></script>
+    
+    <script crossorigin src="https://g.alicdn.com/??code/lib/react/15.6.2/react.min.js,code/lib/react-dom/15.6.2/react-dom.min.js"></script>
+    
+    <script crossorigin src="https://g.alicdn.com/??homon/page-render/3.1.11/v1/index.js"></script>
+    
+    <script crossorigin src="https://g.alicdn.com/??dawn/user-tracker/2.0.67/js/index.js"></script>
+    
+
+    
+    <script src="//g.alicdn.com/aes/??tracker/3.3.3/index.js,tracker-plugin-pv/3.0.6/index.js,tracker-plugin-event/3.0.0/index.js,tracker-plugin-jserror/3.0.3/index.js,tracker-plugin-api/3.1.3/index.js,tracker-plugin-resourceError/3.0.4/index.js,tracker-plugin-perf/3.1.0/index.js,tracker-plugin-eventTiming/3.0.0/index.js,tracker-plugin-autolog/3.0.3/index.js"></script>
+    <script>
+      const isAliyunDomain = /^([^.]+\.)*aliyun\.com$/.test(location.hostname);
+
+      if(isAliyunDomain){
+        const aes = new AES({
+          pid: "f8hD7i",
+          user_type: "6",
+          uid: (function getUID(){
+            var cpk=document.cookie.match(/login_current_pk=(.*?);/);
+            var pk=document.cookie.match(/login_aliyunid_pk=(.*?);/);
+            return cpk&&cpk.length===2?cpk[1]:pk&&pk.length===2?pk[1]:"";
+          })(),
+          env: "prod",
+        })
+        window.__AES_PLUGINS__ = {
+          pv: aes.use(AESPluginPV),
+          event: aes.use(AESPluginEvent),
+          jsError: aes.use(AESPluginJSError),
+          api: aes.use(AESPluginAPI),
+          resourceError: aes.use(AESPluginResourceError),
+          perf: aes.use(AESPluginPerf),
+          eventTiming: aes.use(AESPluginEventTiming),
+          autolog: aes.use(AESPluginAutolog),
+        };
+      }
+    </script>
+    
+  </body>
+</html>

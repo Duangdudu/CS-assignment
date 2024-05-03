@@ -1,0 +1,15 @@
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\bin\Debug\net7.0\CS_1.exe
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\bin\Debug\net7.0\CS_1.deps.json
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\bin\Debug\net7.0\CS_1.runtimeconfig.json
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\bin\Debug\net7.0\CS_1.dll
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\bin\Debug\net7.0\CS_1.pdb
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.csproj.AssemblyReference.cache
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.AssemblyInfoInputs.cache
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.AssemblyInfo.cs
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.csproj.CoreCompileInputs.cache
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.dll
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\refint\CS_1.dll
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.pdb
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\CS_1.genruntimeconfig.cache
+C:\duuuuuu\cs\assignment10\CS_1\CS_1\obj\Debug\net7.0\ref\CS_1.dll
